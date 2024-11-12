@@ -1,1 +1,2 @@
 print("koka")
+print("s")
